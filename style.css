@@ -1,0 +1,31 @@
+body{   
+    font-family: Arial, sans-serif; 
+    font-size: 11px; 
+    background-color: #f0f0f0; 
+    color: #333333; 
+}
+
+h1{
+    color: rgb(162, 0, 168); 
+    font-size: 82wpx; 
+    font-family: Georgia, serif; 
+}
+
+p{
+    color: rgb(0, 0, 0); 
+    font-size: 36px; 
+    font-family: Georgia, serif; 
+}
+
+li{
+    color: rgb(0, 0, 0) ;
+    font-size: 36px; 
+    font-family: Georgia, serif; 
+}
+
+h2{
+    color: rgb(162, 0, 168); 
+    font-size: 82px; 
+    font-family: Georgia, serif; 
+
+}
